@@ -12,6 +12,8 @@ across three categories (size, color, orientation — numbered 1–27 as in the 
 six controlled variants — `original`, `perturbed`, matched `control`s, and `with_guide`
 versions — over a grid of base scales and illusion strengths, with paired VQA prompts.
 
+![VI-Probe overview: illusion cases across size, color, and orientation, with vision and linguistic variations](assets/vi-probe-overview.png)
+
 ## Requirements
 
 Python >= 3.9. No install step — clone and run from the repo root:
